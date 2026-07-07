@@ -54,11 +54,11 @@ labels and review status, eliminating manual enqueue steps.
 
 * * *
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=waheedahmed&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waheedahmed&layout=compact&theme=default)
+![Followers](https://img.shields.io/github/followers/waheedahmed?style=flat&logo=github&label=Followers&color=2088FF)
+![Stars](https://img.shields.io/github/stars/waheedahmed?style=flat&logo=github&label=Stars&color=DAA520)
+![Profile views](https://komarev.com/ghpvc/?username=waheedahmed&style=flat&color=2088FF&label=Profile+views)
 
 * * *
 
