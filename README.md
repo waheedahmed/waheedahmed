@@ -1,6 +1,6 @@
 # Hi, I'm Waheed 👋
 
-Full Stack Python Developer based in Lahore, Pakistan 🇵🇰, currently at **Arbisoft**. I work
+**Senior Software Engineer** based in Lahore, Pakistan 🇵🇰, currently at **Arbisoft**. I work
 end-to-end across the stack — building and scaling backend services in Python/Django and
 modern web frontends in React/TypeScript. I care about clean architecture, search and
 performance, developer tooling, and automation.
